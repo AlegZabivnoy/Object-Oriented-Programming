@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab1\\x64\\Debug\\Module3.obj",
+            "outputs": [
+                "Lab1\\x64\\Debug\\Module3.rc.obj.dt.module.json",
+                "Lab1\\x64\\Debug\\Module3.rc.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
