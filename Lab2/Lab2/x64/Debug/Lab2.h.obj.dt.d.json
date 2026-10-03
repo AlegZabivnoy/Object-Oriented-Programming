@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aleksandr ostanin\\desktop\\study\\oop\\labs\\lab2\\lab2.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\aleksandr ostanin\\desktop\\study\\oop\\labs\\lab2\\resource.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
