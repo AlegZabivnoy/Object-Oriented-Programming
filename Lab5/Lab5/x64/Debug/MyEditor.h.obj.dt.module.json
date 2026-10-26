@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab5\\x64\\Debug\\MyEditor.obj",
+            "outputs": [
+                "Lab5\\x64\\Debug\\MyEditor.h.obj.dt.module.json",
+                "Lab5\\x64\\Debug\\MyEditor.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
